@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Ours(Live at SUPERNOVA KAWASAKI,2025/01/11)",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-25T11:10:55.443210Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ours (feat. 初音ミク)",
+      "artist": "*Luna",
+      "has_synced": false,
+      "path": "select/pl_01_Ours_(feat._初音ミク)_Luna.txt"
+    }
+  ]
+}
